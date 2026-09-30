@@ -1,0 +1,2 @@
+/usr/bin/ar qc libarray_ops.a CMakeFiles/array_ops.dir/src/array_ops.cpp.o
+/usr/bin/ranlib libarray_ops.a
